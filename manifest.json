@@ -1,0 +1,18 @@
+{
+  "name": "YouTube Playlist Retention Stats",
+  "version": "1.0.0",
+  "description": "shows the playlist interest analytics based on viewer retention for every YouTube video or playlist.",
+  "homepage_url": "https://github.com/danielcoam/youtube-playlist-retention",
+  "icons": {
+    "128": "icon128.png",
+    "16": "icon16.png",
+    "48": "icon48.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 3
+}
