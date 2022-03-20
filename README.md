@@ -3,7 +3,7 @@ The Extension shows the **playlist interest analytics** based on viewer retentio
 
 
 ## Run locally
-All you need to do is to configure a YouTube `API_KEY` in the [constants.js](./constants.js) file. (https://www.slickremix.com/docs/get-api-key-for-youtube/)
+All you need to do is to configure a YouTube `API_KEY` in the [constants.js](src/constants.js) file. (https://www.slickremix.com/docs/get-api-key-for-youtube/)
 
 And then load the extension to your chrome via the [chrome://extensions](chrome://extensions) url.
 
